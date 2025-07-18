@@ -4,7 +4,7 @@ Proyecto final: Creación del juego Asteroids haciendo uso del lenguaje python.
 # Descripción 📄
 **Asteroids** es un juego clásico de la **Atari** y fue muy popular en la época dorada de los juegos de Arcade, dicho juego consite en controlar tu nave para destruir asteroides y **sobrevivir al caos del espacio...**
 
-# Controles 🕹️
+# Controles 🕹️ 
 
 | Tecla        | Acción                          |
 |--------------|---------------------------------|
